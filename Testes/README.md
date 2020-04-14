@@ -1,5 +1,4 @@
 1°) "Errors exist in required projects"
-	
 	@Test
 	void testCalculaPena() {
 		String t1 = "Culpado";
@@ -11,6 +10,7 @@
 		assertEquals(resultadoEsperado, resultado);
 	}
 2°) Sucesso! após alteração no trecho a seguir: 
+
 	public class JulgamentoPrisioneiro {
 
 	   int PENA_INOCENCIA = 0;
